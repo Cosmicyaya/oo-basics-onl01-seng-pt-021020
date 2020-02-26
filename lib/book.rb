@@ -33,3 +33,7 @@ class Book
   
 end
 
+  def turn_page(num)
+ end
+ 
+end
