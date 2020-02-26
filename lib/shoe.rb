@@ -5,3 +5,5 @@ class Shoe
   def initialize(brand)
     @band = brand
   end
+  
+  def cobble
